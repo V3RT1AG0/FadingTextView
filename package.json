@@ -1,16 +1,17 @@
 {
-  "name": "fadingtextview",
-  "version": "1.0.0",
-  "description": "TextView with animated placeholder",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "animated",
-    "placeholder",
-    "textview"
-  ],
-  "author": "V3RT1AG0",
-  "license": "ISC"
+	"name": "react-native-fading-textview",
+	"version": "1.0.0",
+	"description": "TextView with animated placeholder",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"animated",
+		"placeholder",
+		"textview"
+	],
+	"author": "V3RT1AG0",
+	"license": "ISC",
+	"repository": "https://github.com/V3RT1AG0/FadingTextView"
 }

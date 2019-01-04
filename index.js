@@ -90,7 +90,7 @@ export default class VideoScreen extends React.Component {
 						defaultValue={defaultValue}
 						onFocus={this._onPressButton}
 						underlineColorAndroid="transparent"
-						onChangeText={this.props.onChangeAlbumText}
+						onChangeText={this.props.onChangeText}
 						placeholder={this.props.placeholder}
 					/>
 				</Animated.View>
