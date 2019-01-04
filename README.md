@@ -1,8 +1,11 @@
-Installation
-1.Run npm i react-native-fading-textview --save
-2.import AnimatedTextView from 'react-native-fading-textview'
+## Installation
+1. Run `npm i react-native-fading-textview --save`
+2. `import AnimatedTextView from 'react-native-fading-textview'`
 
-Basic usage
+
+## Basic usage
+
+```javascript
 this.state.examples = ["Birthday..", "Farewell..", "Nightout..", "Trekking.."];
 <AnimatedTextView
 examples={this.state.examples}
@@ -12,3 +15,7 @@ animatedTextColor={"green"}
 style={{ fontSize: 30 }}
 placeholder={"Name ur day"}
 />
+```
+ 
+
+
